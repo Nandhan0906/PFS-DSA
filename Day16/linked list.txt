@@ -1,0 +1,1 @@
+Linked list:linked list is a collection of all the node where:	Each node contains:		*data		*Pointer(next) -> points to next node	Unlike Arrays:	-> No continuous memory	-> Dynamic Size	-> Efficient Insert/Delete10->20->30->NullOperations:* insert at beginning* insert at end* traversal(Print list)* search element* delete from beginning* delete from end
